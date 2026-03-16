@@ -19,7 +19,7 @@
 ## Screenshots
 
 ### Home Page
-![Home Page](img/home.png)
+![Home Page](img/Home.png)
 
 ### Books Page
 ![Books Page](img/books.png)
